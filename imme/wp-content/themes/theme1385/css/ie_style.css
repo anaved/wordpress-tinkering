@@ -1,0 +1,12 @@
+.banners_item .description {background-repeat:no-repeat; background-position:left top; background-image:url(../images/banner-desc-bg-ie.png);}
+.widget_nav_menu .menu li a:hover {
+			box-shadow:0 1px 5px #978e7a;
+			-moz-box-shadow:0 1px 5px #978e7a;
+			-webkit-box-shadow:0 1px 5px #978e7a;
+		}
+.zoom-icon {
+	display:none;
+}		
+.image-wrap:hover .zoom-icon {
+	display:block;
+}
